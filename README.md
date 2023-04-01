@@ -1,8 +1,8 @@
 # Delete Empty Layers
 
-Delete all empty layers in document regardless of visibility
+Delete all empty layers in document regardless of visibility, given an original script they wanted to have modified to include hidden layers (but instead rewritten from scratch)
 
-> [By request on Illustrator forums here]()
+> [By request on r/AdobeIllustrator](https://www.reddit.com/r/AdobeIllustrator/comments/125agta/help_with_script/)
 
 ```js
 Array.prototype.forEach = function (callback) {
